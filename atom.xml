@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://github.com/LLMinamiKotori/</id>
+    <id>https://llminamikotori.github.io/</id>
     <title>wjh</title>
-    <updated>2022-05-09T08:08:08.569Z</updated>
+    <updated>2022-05-09T08:10:21.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://github.com/LLMinamiKotori/"/>
-    <link rel="self" href="https://https://github.com/LLMinamiKotori/atom.xml"/>
+    <link rel="alternate" href="https://llminamikotori.github.io/"/>
+    <link rel="self" href="https://llminamikotori.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://github.com/LLMinamiKotori/images/avatar.png</logo>
-    <icon>https://https://github.com/LLMinamiKotori/favicon.ico</icon>
+    <logo>https://llminamikotori.github.io/images/avatar.png</logo>
+    <icon>https://llminamikotori.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wjh</rights>
     <entry>
         <title type="html"><![CDATA[青岛黄海学院]]></title>
-        <id>https://https://github.com/LLMinamiKotori/post/qing-dao-huang-hai-xue-yuan/</id>
-        <link href="https://https://github.com/LLMinamiKotori/post/qing-dao-huang-hai-xue-yuan/">
+        <id>https://llminamikotori.github.io/post/qing-dao-huang-hai-xue-yuan/</id>
+        <link href="https://llminamikotori.github.io/post/qing-dao-huang-hai-xue-yuan/">
         </link>
         <updated>2022-03-31T12:00:43.000Z</updated>
         <content type="html"><![CDATA[<p>testtest</p>
