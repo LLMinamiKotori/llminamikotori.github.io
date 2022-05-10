@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://llminamikotori.github.io/goodnote</id>
+    <id>https://llminamikotori.github.io</id>
     <title>wjh</title>
-    <updated>2022-05-10T09:45:27.063Z</updated>
+    <updated>2022-05-10T09:48:26.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://llminamikotori.github.io/goodnote"/>
-    <link rel="self" href="https://llminamikotori.github.io/goodnote/atom.xml"/>
+    <link rel="alternate" href="https://llminamikotori.github.io"/>
+    <link rel="self" href="https://llminamikotori.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://llminamikotori.github.io/goodnote/images/avatar.png</logo>
-    <icon>https://llminamikotori.github.io/goodnote/favicon.ico</icon>
+    <logo>https://llminamikotori.github.io/images/avatar.png</logo>
+    <icon>https://llminamikotori.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wjh</rights>
     <entry>
         <title type="html"><![CDATA[随便写点内容]]></title>
-        <id>https://llminamikotori.github.io/goodnote/post/sui-bian-xie-dian-nei-rong/</id>
-        <link href="https://llminamikotori.github.io/goodnote/post/sui-bian-xie-dian-nei-rong/">
+        <id>https://llminamikotori.github.io/post/sui-bian-xie-dian-nei-rong/</id>
+        <link href="https://llminamikotori.github.io/post/sui-bian-xie-dian-nei-rong/">
         </link>
         <updated>2022-05-10T08:46:30.000Z</updated>
         <content type="html"><![CDATA[<p>时光在我的措手不及里，不惹尘埃地一步步走开。恍惚<br>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[这是一篇来自学校的倡议]]></title>
-        <id>https://llminamikotori.github.io/goodnote/post/zhe-shi-yi-pian-lai-zi-xue-xiao-de-chang-yi/</id>
-        <link href="https://llminamikotori.github.io/goodnote/post/zhe-shi-yi-pian-lai-zi-xue-xiao-de-chang-yi/">
+        <id>https://llminamikotori.github.io/post/zhe-shi-yi-pian-lai-zi-xue-xiao-de-chang-yi/</id>
+        <link href="https://llminamikotori.github.io/post/zhe-shi-yi-pian-lai-zi-xue-xiao-de-chang-yi/">
         </link>
         <updated>2022-05-10T08:21:38.000Z</updated>
         <content type="html"><![CDATA[<p>亲爱的同学们：<br>
@@ -57,16 +57,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[青岛黄海学院]]></title>
-        <id>https://llminamikotori.github.io/goodnote/post/qing-dao-huang-hai-xue-yuan-laji/</id>
-        <link href="https://llminamikotori.github.io/goodnote/post/qing-dao-huang-hai-xue-yuan-laji/">
+        <id>https://llminamikotori.github.io/post/qing-dao-huang-hai-xue-yuan-laji/</id>
+        <link href="https://llminamikotori.github.io/post/qing-dao-huang-hai-xue-yuan-laji/">
         </link>
         <updated>2022-03-31T12:00:43.000Z</updated>
         <content type="html"><![CDATA[<h2 id="这是二级标题">这是二级标题</h2>
 <h3 id="这是三级标题">这是三级标题</h3>
 <p>下面是一张图片<br>
-<img src="https://llminamikotori.github.io/goodnote/post-images/1652172330015.webp" alt="" loading="lazy">⚾️⚾️⚾️<br>
+<img src="https://llminamikotori.github.io/post-images/1652172330015.webp" alt="" loading="lazy">⚾️⚾️⚾️<br>
 第二张图片<br>
-<img src="https://llminamikotori.github.io/goodnote/post-images/1652172317861.webp" alt="" loading="lazy"></p>
+<img src="https://llminamikotori.github.io/post-images/1652172317861.webp" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
