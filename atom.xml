@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://llminamikotori.github.io/</id>
     <title>wjh</title>
-    <updated>2022-05-09T08:17:46.280Z</updated>
+    <updated>2022-05-10T08:50:11.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://llminamikotori.github.io/"/>
     <link rel="self" href="https://llminamikotori.github.io/atom.xml"/>
@@ -11,22 +11,62 @@
     <icon>https://llminamikotori.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wjh</rights>
     <entry>
-        <title type="html"><![CDATA[青岛黄海学院垃圾！！！！]]></title>
+        <title type="html"><![CDATA[随便写点内容]]></title>
+        <id>https://llminamikotori.github.io/post/sui-bian-xie-dian-nei-rong/</id>
+        <link href="https://llminamikotori.github.io/post/sui-bian-xie-dian-nei-rong/">
+        </link>
+        <updated>2022-05-10T08:46:30.000Z</updated>
+        <content type="html"><![CDATA[<p>时光在我的措手不及里，不惹尘埃地一步步走开。恍惚<br>
+间，花样年华，水样青春已渐行渐远。站在时光的路口，于灯<br>
+火阑珊处，摇曳一地遐思。天气，温暖，阳光，明媚。花朵，<br>
+绚烂，清风，柔和。多好的季节。<br>
+经常被别人问起，最近好吗?总是笑着回答:挺好啊。事实<br>
+只有自己知道。就算自己心情不好，也不能影响别人的心情。<br>
+自己知道就好。听过这样一句话:你可以在某一时候欺骗所有<br>
+人,你也可以在所有时候欺骗某一个人,但你决不能在所有时候<br>
+欺骗所有的人。生活也许就是这样,我们都知道要做一个诚实的<br>
+孩子,但不经意间总要撒点小谎。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是一篇来自学校的倡议]]></title>
+        <id>https://llminamikotori.github.io/post/zhe-shi-yi-pian-lai-zi-xue-xiao-de-chang-yi/</id>
+        <link href="https://llminamikotori.github.io/post/zhe-shi-yi-pian-lai-zi-xue-xiao-de-chang-yi/">
+        </link>
+        <updated>2022-05-10T08:21:38.000Z</updated>
+        <content type="html"><![CDATA[<p>亲爱的同学们：<br>
+阳春三月，黄海的校园本该是春意盎然、鸟语花香。但疫情突发，形势严峻，我们不得不放缓拥抱春天的脚步。当前，学校已严格执行封闭管理，同时开启线上教学模式，全校所有师生都在各自岗位上开展工作、有序学习。<br>
+在此，我们向各位同学发出加强在线学习的倡议：<br>
+倡议弘扬伟大抗疫精神<br>
+积极响应党和政府的号召，认真做好个人防护，全面落实防疫要求，严格执行有关规定，上好抗疫这堂大思政课，为抗疫作出自己的贡献。<br>
+倡议线上自律学习<br>
+在线即课堂、听课即就学，牢记学生使命，遵守课程教学要求和课堂学习纪律，不迟到，不早退，不旷课，不做与课程学习无关事情。在自律中，让优秀成为一种习惯。<br>
+倡议线上自主学习<br>
+设定目标，只争朝夕，主动、自发、高效学习，提前做好上课准备，积极参与课堂互动，做好课程学习笔记，及时梳理学习内容，认真完成学习任务，打造属于自己的“云课堂”。<br>
+倡议线上文明学习<br>
+敬畏课堂，有仪式感。注意仪容仪表、言行规范，保持学习环境整洁。规范网络行为，不沉迷网络游戏。尊重知识产权，未经许可不在网络上转发。文明上网、理性发声，传播正能量，营造清朗健康的网络环境。<br>
+倡议线上诚信学习<br>
+读书立品、诚信为本。诚信作业、诚信考试、诚信学习，学做真人。对自己课程作业负责，保证课业的原创性，坚决杜绝作业抄袭拷贝等不端行为。以诚信负责的态度，交上线上学习的诚信答卷。<br>
+倡议线上互助学习<br>
+成立学习互助小组，建设学习共同体。学生党员、学生干部积极行动起来，做好老师助手，帮助学有困难的同学共同前行，互帮互助提高学习效率，共同完成好在线学习的任务。<br>
+倡议开展悦读战疫行动<br>
+开卷有益，多读、深思、勤写，在读书中体味人生、陶冶情操、训练思维、汲取力量、提升修养，开展读书分享、线上朗读、知识竞赛等活动，让阅读成为我们生命的一部分。<br>
+倡议开展健身战疫行动<br>
+生命至上、健康第一。勤洗手、戴口罩、多通风、少聚集，因地制宜锻炼健身，积极进行体育运动，养成健康的生活作息习惯和饮食习惯。合理使用电子产品，让眼睛得到休息。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青岛黄海学院]]></title>
         <id>https://llminamikotori.github.io/post/qing-dao-huang-hai-xue-yuan-laji/</id>
         <link href="https://llminamikotori.github.io/post/qing-dao-huang-hai-xue-yuan-laji/">
         </link>
         <updated>2022-03-31T12:00:43.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="这是二级标题">这是二级标题</h2>
-<h3 id="这是三级标题">这是三级标题</h3>
-<p>下面是一张图片<br>
-<img src="https://llminamikotori.github.io//post-images/1652084007905.webp" alt="" loading="lazy">⚾️⚾️⚾️</p>
-]]></summary>
         <content type="html"><![CDATA[<h2 id="这是二级标题">这是二级标题</h2>
 <h3 id="这是三级标题">这是三级标题</h3>
 <p>下面是一张图片<br>
-<img src="https://llminamikotori.github.io//post-images/1652084007905.webp" alt="" loading="lazy">⚾️⚾️⚾️</p>
-<!-- more -->
-<p>这应该是第二页吧？</p>
+<img src="https://llminamikotori.github.io//post-images/1652172330015.webp" alt="" loading="lazy">⚾️⚾️⚾️<br>
+第二张图片<br>
+<img src="https://llminamikotori.github.io//post-images/1652172317861.webp" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
