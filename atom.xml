@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://llminamikotori.github.io</id>
     <title>wjh</title>
-    <updated>2022-05-14T06:35:55.508Z</updated>
+    <updated>2022-05-14T07:28:04.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://llminamikotori.github.io"/>
     <link rel="self" href="https://llminamikotori.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://llminamikotori.github.io/images/avatar.png</logo>
     <icon>https://llminamikotori.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, wjh</rights>
+    <entry>
+        <title type="html"><![CDATA[毕业答辩]]></title>
+        <id>https://llminamikotori.github.io/post/bi-ye-da-bian/</id>
+        <link href="https://llminamikotori.github.io/post/bi-ye-da-bian/">
+        </link>
+        <updated>2022-05-14T07:24:34.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<figure data-type="image" tabindex="1"><img src="https://llminamikotori.github.io/post-images/1652513164618.webp" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随便写点内容]]></title>
         <id>https://llminamikotori.github.io/post/sui-bian-xie-dian-nei-rong/</id>
